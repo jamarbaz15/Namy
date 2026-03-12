@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c2d12"/>
+      <stop offset="1" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="48" fill="url(#bg)"/>
+  <circle cx="256" cy="186" r="96" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="256" cy="390" r="150" fill="rgba(255,255,255,0.14)"/>
+  <circle cx="256" cy="182" r="82" fill="#fdba74" fill-opacity="0.95"/>
+  <text x="256" y="208" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#ffffff">DEV</text>
+  <text x="256" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Dr. Elena Vasquez</text>
+  <text x="256" y="402" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fdf2f8">History Consultant</text>
+  <rect x="112" y="430" width="288" height="8" rx="4" fill="rgba(255,255,255,0.42)"/>
+</svg>
