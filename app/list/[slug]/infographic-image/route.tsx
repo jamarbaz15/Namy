@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
 import { getListBySlug, NAMES_DB } from '@/data';
 import { filterNamesByList } from '@/lib/utils';
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 
 const W = 1200;
 const H = 720;
