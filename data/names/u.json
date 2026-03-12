@@ -1,0 +1,5018 @@
+[
+  {
+    "id": "uriel-m",
+    "name": "Uriel",
+    "slug": "uriel",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "angel",
+      "light",
+      "hebrew"
+    ],
+    "description": "A Hebrew name meaning God is my light, used in Jewish tradition and later associated with an archangel in some texts.",
+    "popularity": {
+      "usa": 461,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "nicknames": [
+      "Uri"
+    ],
+    "syllables": 3,
+    "categories": [
+      "Biblical"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abraham",
+        "Abel",
+        "Adan",
+        "Asa",
+        "Ari"
+      ],
+      "sisters": [
+        "Ana",
+        "Ariel",
+        "Aliyah",
+        "Arielle",
+        "Ariyah"
+      ]
+    }
+  },
+  {
+    "id": "ulysses-m",
+    "name": "Ulysses",
+    "slug": "ulysses",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Greek"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "classical",
+      "odysseus",
+      "myth",
+      "literary"
+    ],
+    "description": "Latin form of Odysseus, a classical name with debated meaning and strong literary and mythological associations.",
+    "popularity": {
+      "usa": 1291,
+      "trend": "falling",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Mythology",
+      "Mythological",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Ulyie",
+      "Ulys"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ursula-f",
+    "name": "Ursula",
+    "slug": "ursula",
+    "gender": "female",
+    "origins": [
+      "Latin"
+    ],
+    "meaning": "Little Bear",
+    "meaningKeywords": [
+      "bear",
+      "latin",
+      "saint",
+      "classic"
+    ],
+    "description": "Ursula derives from Latin ursa meaning bear with a diminutive sense, and it is historically reinforced by Christian saint traditions.",
+    "popularity": {
+      "usa": 5266,
+      "trend": "falling",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ulises-m",
+    "name": "Ulises",
+    "slug": "ulises",
+    "gender": "male",
+    "origins": [
+      "Spanish",
+      "Greek"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "classical",
+      "odysseus",
+      "spanish",
+      "masculine"
+    ],
+    "description": "The Spanish form of Ulysses, ultimately linked to Odysseus, it reflects classical reception in Hispanic naming traditions.",
+    "popularity": {
+      "usa": 911,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [],
+    "siblingSuggestions": {
+      "brothers": [
+        "Armando",
+        "Alonzo",
+        "Alonso",
+        "Benicio",
+        "Ernesto"
+      ],
+      "sisters": [
+        "Alondra",
+        "Analia",
+        "Arisbeth",
+        "Belen",
+        "Cielo"
+      ]
+    }
+  },
+  {
+    "id": "uriah-m",
+    "name": "Uriah",
+    "slug": "uriah",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "hebrew",
+      "prophetic",
+      "masculine"
+    ],
+    "description": "A biblical Hebrew name, it appears in the Hebrew Bible and is typically interpreted as referring to divine light or flame.",
+    "popularity": {
+      "usa": 654,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "nicknames": [
+      "Uri"
+    ],
+    "syllables": 2,
+    "categories": [
+      "Biblical"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amos",
+        "Ariel",
+        "Aron",
+        "Abram",
+        "Abner"
+      ],
+      "sisters": [
+        "Anne",
+        "Abby",
+        "Anika",
+        "Aleah",
+        "Aliza"
+      ]
+    }
+  },
+  {
+    "id": "una-f",
+    "name": "Una",
+    "slug": "una",
+    "gender": "female",
+    "origins": [
+      "Irish",
+      "Latin"
+    ],
+    "meaning": "One; Only",
+    "meaningKeywords": [
+      "singularity",
+      "mythic",
+      "concise"
+    ],
+    "description": "Used in Irish and literary contexts, it is commonly interpreted as one, conveying singularity and uniqueness in a compact form.",
+    "popularity": {
+      "usa": 3005,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aedan",
+        "Aven",
+        "Adian",
+        "Aeden",
+        "Ayven"
+      ],
+      "sisters": [
+        "Ashlynn",
+        "Arline",
+        "Arleen",
+        "Allene",
+        "Alannah"
+      ]
+    }
+  },
+  {
+    "id": "unique-f",
+    "name": "Unique",
+    "slug": "unique",
+    "gender": "female",
+    "origins": [
+      "English"
+    ],
+    "meaning": "One of a Kind",
+    "meaningKeywords": [
+      "wordname",
+      "modern",
+      "individuality",
+      "descriptive"
+    ],
+    "description": "Modern English word-name taken directly from the adjective unique, signaling singularity and individuality in contemporary naming practices.",
+    "popularity": {
+      "usa": 2207,
+      "trend": "falling",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "urijah-m",
+    "name": "Urijah",
+    "slug": "urijah",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "The Lord Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "light",
+      "hebrew",
+      "masculine"
+    ],
+    "description": "Urijah is a variant of Uriah, a biblical Hebrew name expressing divine light and longstanding scriptural associations.",
+    "popularity": {
+      "usa": 2624,
+      "trend": "falling",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "urban-m",
+    "name": "Urban",
+    "slug": "urban",
+    "gender": "male",
+    "origins": [
+      "Latin"
+    ],
+    "meaning": "Of the City",
+    "meaningKeywords": [
+      "city",
+      "roman",
+      "saints",
+      "classic"
+    ],
+    "description": "Latin name borne by several popes, historically conveying association with civic life and urban identity.",
+    "popularity": {
+      "usa": 5854,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "umar-m",
+    "name": "Umar",
+    "slug": "umar",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Flourishing Life",
+    "meaningKeywords": [
+      "arabic",
+      "prosperity",
+      "history"
+    ],
+    "description": "Umar is a prominent Arabic name historically borne by early Islamic figures and interpreted with meanings of life and flourishing.",
+    "popularity": {
+      "usa": 1165,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "uziel-m",
+    "name": "Uziel",
+    "slug": "uziel",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Strength",
+    "meaningKeywords": [
+      "hebrew",
+      "theophoric",
+      "strength",
+      "biblical"
+    ],
+    "description": "Uziel is a Hebrew theophoric name meaning God is my strength, known from biblical genealogies and later Jewish usage.",
+    "popularity": {
+      "usa": 1357,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "ubaldo-m",
+    "name": "Ubaldo",
+    "slug": "ubaldo",
+    "gender": "male",
+    "origins": [
+      "Germanic",
+      "Italian"
+    ],
+    "meaning": "Bold Help",
+    "meaningKeywords": [
+      "germanic",
+      "saint",
+      "italian"
+    ],
+    "description": "Ubaldo reflects Germanic elements for boldness and help, transmitted through Italian usage and the cult of Saint Ubaldo.",
+    "popularity": {
+      "usa": 6135,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "uma-f",
+    "name": "Uma",
+    "slug": "uma",
+    "gender": "female",
+    "origins": [
+      "Sanskrit"
+    ],
+    "meaning": "Light Tranquility",
+    "meaningKeywords": [
+      "hindu",
+      "goddess",
+      "sanskrit",
+      "classic"
+    ],
+    "description": "Uma is a Sanskrit name associated with Hindu tradition, including usage as an epithet linked to divine and luminous qualities.",
+    "popularity": {
+      "usa": 2736,
+      "trend": "falling",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aditya",
+        "Amar",
+        "Ajay",
+        "Arnav",
+        "Anish"
+      ],
+      "sisters": [
+        "Ayana",
+        "Asha",
+        "Amiya",
+        "Anjali",
+        "Anisha"
+      ]
+    }
+  },
+  {
+    "id": "usman-m",
+    "name": "Usman",
+    "slug": "usman",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Baby Bustard Bird",
+    "meaningKeywords": [
+      "arabic",
+      "historical",
+      "companion",
+      "traditional"
+    ],
+    "description": "Arabic name historically linked to a bird term, widely known through early Islamic history and used across Muslim communities.",
+    "popularity": {
+      "usa": 1717,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ula-f",
+    "name": "Ula",
+    "slug": "ula",
+    "gender": "female",
+    "origins": [
+      "Scandinavian",
+      "Polish"
+    ],
+    "meaning": "Wealth; Ancestral",
+    "meaningKeywords": [
+      "short",
+      "diminutive",
+      "scandinavian",
+      "polish"
+    ],
+    "description": "Used as a short form in several European languages, including Scandinavian and Polish contexts, with meanings dependent on source name.",
+    "popularity": {
+      "usa": 12028,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Axl",
+        "Aksel",
+        "Axell",
+        "Andersen",
+        "Axcel"
+      ],
+      "sisters": [
+        "Anitra",
+        "Anneka",
+        "Annica",
+        "Anely",
+        "Andersen"
+      ]
+    }
+  },
+  {
+    "id": "ulices-m",
+    "name": "Ulices",
+    "slug": "ulices",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Spanish"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "classical",
+      "odysseus",
+      "iberian",
+      "literary"
+    ],
+    "description": "Ulices is the Spanish form of Ulysses, a classical name linked to Odysseus traditions in Greco-Roman literature.",
+    "popularity": {
+      "usa": 2823,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ulyses-m",
+    "name": "Ulyses",
+    "slug": "ulyses",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Greek"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "variant",
+      "ulysses",
+      "classical",
+      "mythic"
+    ],
+    "description": "A spelling variant of Ulysses, from Latin Ulixes for Odysseus, traditionally glossed with meanings involving wrath or hatred.",
+    "syllables": 3,
+    "categories": [
+      "Mythology",
+      "Mythological",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    },
+    "popularity": {
+      "usa": 999999,
+      "trend": "falling",
+      "latestYear": 2024
+    }
+  },
+  {
+    "id": "ulisses-m",
+    "name": "Ulisses",
+    "slug": "ulisses",
+    "gender": "male",
+    "origins": [
+      "Portuguese",
+      "Latin"
+    ],
+    "meaning": "Wrathful; to Hate",
+    "meaningKeywords": [
+      "classical",
+      "epic",
+      "iberian"
+    ],
+    "description": "Ulisses is the Portuguese form of Ulysses, a classical name linked to Homeric and Roman epic traditions.",
+    "popularity": {
+      "usa": 6136,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uliie",
+      "Ulis"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amaro",
+        "Adilson",
+        "Ailton",
+        "Adelino",
+        "Bento"
+      ],
+      "sisters": [
+        "Anapaula",
+        "Almedia",
+        "Areia",
+        "Andressa",
+        "Belem"
+      ]
+    }
+  },
+  {
+    "id": "usher-m",
+    "name": "Usher",
+    "slug": "usher",
+    "gender": "male",
+    "origins": [
+      "English"
+    ],
+    "meaning": "Doorkeeper Attendant",
+    "meaningKeywords": [
+      "occupational",
+      "service",
+      "surname",
+      "english"
+    ],
+    "description": "An occupational surname used as a given name, historically referring to an attendant who guides or escorts others.",
+    "popularity": {
+      "usa": 2332,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "uri-m",
+    "name": "Uri",
+    "slug": "uri",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "My Light",
+    "meaningKeywords": [
+      "biblical",
+      "light",
+      "short"
+    ],
+    "description": "A Hebrew biblical name, it is typically interpreted as light or flame and remains common in Jewish naming practice.",
+    "popularity": {
+      "usa": 3089,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "uzziah-m",
+    "name": "Uzziah",
+    "slug": "uzziah",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "My Strength Is Yah",
+    "meaningKeywords": [
+      "biblical",
+      "theophoric",
+      "kingdom",
+      "scripture"
+    ],
+    "description": "A biblical theophoric name borne by figures in Hebrew texts, emphasizing divine strength and protection.",
+    "popularity": {
+      "usa": 2357,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "umberto-m",
+    "name": "Umberto",
+    "slug": "umberto",
+    "gender": "male",
+    "origins": [
+      "Italian",
+      "Germanic"
+    ],
+    "meaning": "Bright Warrior",
+    "meaningKeywords": [
+      "warrior",
+      "germanic",
+      "italian"
+    ],
+    "description": "Umberto is the Italian form of a Germanic name traditionally interpreted as bright or famous warrior.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "nicknames": [
+      "Umbie",
+      "Umbe"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amare",
+        "Americo",
+        "Armoni",
+        "Attilio",
+        "Avante"
+      ],
+      "sisters": [
+        "Annabella",
+        "Allegra",
+        "Analisa",
+        "Annamaria",
+        "Arionna"
+      ]
+    }
+  },
+  {
+    "id": "unique-m",
+    "name": "Unique",
+    "slug": "unique",
+    "gender": "male",
+    "origins": [
+      "English"
+    ],
+    "meaning": "One of a Kind",
+    "meaningKeywords": [
+      "wordname",
+      "modern",
+      "individuality",
+      "descriptive"
+    ],
+    "description": "Modern English word-name taken directly from the adjective unique, signaling singularity and individuality in contemporary naming practices.",
+    "popularity": {
+      "usa": 2662,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "uriah-f",
+    "name": "Uriah",
+    "slug": "uriah",
+    "gender": "female",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "hebrew",
+      "prophetic",
+      "masculine"
+    ],
+    "description": "A biblical Hebrew name, it appears in the Hebrew Bible and is typically interpreted as referring to divine light or flame.",
+    "popularity": {
+      "usa": 5408,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "unity-f",
+    "name": "Unity",
+    "slug": "unity",
+    "gender": "female",
+    "origins": [
+      "English"
+    ],
+    "meaning": "Oneness Concord",
+    "meaningKeywords": [
+      "virtue",
+      "abstract",
+      "english"
+    ],
+    "description": "English virtue name derived from an abstract noun, used to signal ideals of concord and social cohesion.",
+    "popularity": {
+      "usa": 4098,
+      "trend": "rising"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "urbano-m",
+    "name": "Urbano",
+    "slug": "urbano",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Spanish"
+    ],
+    "meaning": "Of the City",
+    "meaningKeywords": [
+      "latin",
+      "city",
+      "saint",
+      "male"
+    ],
+    "description": "Urbano is a Spanish and Italian form of Urbanus, associated with cities and borne by several historical saints.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "uzziel-m",
+    "name": "Uzziel",
+    "slug": "uzziel",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Strength",
+    "meaningKeywords": [
+      "god",
+      "strength",
+      "hebrew",
+      "biblical",
+      "masculine"
+    ],
+    "description": "Hebrew biblical name interpreted as God is my strength, appearing in scriptural genealogies and later religious naming.",
+    "popularity": {
+      "usa": 4542,
+      "trend": "rising"
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "uvaldo-m",
+    "name": "Uvaldo",
+    "slug": "uvaldo",
+    "gender": "male",
+    "origins": [
+      "Germanic",
+      "Spanish"
+    ],
+    "meaning": "Powerful Ruler",
+    "meaningKeywords": [
+      "spanish",
+      "germanic",
+      "variant",
+      "traditional"
+    ],
+    "description": "Uvaldo is a Spanish form related to Oswald-type names, historically interpreted as a powerful or ruling figure.",
+    "syllables": 3,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "uzair-m",
+    "name": "Uzair",
+    "slug": "uzair",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Helper; Supporter",
+    "meaningKeywords": [
+      "quranic",
+      "arabic",
+      "tradition"
+    ],
+    "description": "An Arabic name associated with Uzayr in Islamic tradition, used widely with transliteration variants across regions.",
+    "popularity": {
+      "usa": 4049,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ulani-f",
+    "name": "Ulani",
+    "slug": "ulani",
+    "gender": "female",
+    "origins": [
+      "Hawaiian"
+    ],
+    "meaning": "Heavenly and Cheerful",
+    "meaningKeywords": [
+      "hawaiian",
+      "nature",
+      "feminine",
+      "pleasant",
+      "island"
+    ],
+    "description": "Ulani is used in Hawaiian naming, associated with qualities of cheerfulness and celestial imagery within Polynesian linguistic traditions.",
+    "popularity": {
+      "usa": 2550,
+      "trend": "rising"
+    },
+    "syllables": 3,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alika",
+        "Akoni",
+        "Alekai",
+        "Alikai",
+        "Alani"
+      ],
+      "sisters": [
+        "Anela",
+        "Aulani",
+        "Ahlani",
+        "Aolani",
+        "Aloha"
+      ]
+    }
+  },
+  {
+    "id": "umair-m",
+    "name": "Umair",
+    "slug": "umair",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Long Lived",
+    "meaningKeywords": [
+      "arabic",
+      "longevity",
+      "male"
+    ],
+    "description": "Arabic masculine name associated with long life and thriving, widely used across South Asian and Middle Eastern contexts.",
+    "popularity": {
+      "usa": 6415,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "undra-m",
+    "name": "Undra",
+    "slug": "undra",
+    "gender": "male",
+    "origins": [
+      "English",
+      "Sanskrit"
+    ],
+    "meaning": "Lamb; Ewe",
+    "meaningKeywords": [
+      "rare",
+      "variant",
+      "indra",
+      "modern"
+    ],
+    "description": "Uncommon name possibly influenced by Indra-like phonology, though reliable etymological documentation remains limited.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "ulric-m",
+    "name": "Ulric",
+    "slug": "ulric",
+    "gender": "male",
+    "origins": [
+      "Germanic"
+    ],
+    "meaning": "Wolf Ruler",
+    "meaningKeywords": [
+      "germanic",
+      "medieval",
+      "masculine",
+      "historic"
+    ],
+    "description": "A Germanic name from elements for wolf and ruler, attested in medieval Europe and revived in modern usage.",
+    "popularity": {
+      "usa": 14056,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "ulysee-m",
+    "name": "Ulysee",
+    "slug": "ulysee",
+    "gender": "male",
+    "origins": [
+      "Greek",
+      "French"
+    ],
+    "meaning": "Wrathful or Hating",
+    "meaningKeywords": [
+      "classical",
+      "french",
+      "odyssey",
+      "hero"
+    ],
+    "description": "Ulysee is a French-styled form of Ulysses, referencing the classical hero and Greek-rooted name tradition.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "udell-m",
+    "name": "Udell",
+    "slug": "udell",
+    "gender": "male",
+    "origins": [
+      "English"
+    ],
+    "meaning": "Woad Hill",
+    "meaningKeywords": [
+      "surname",
+      "toponym",
+      "oldenglish",
+      "rare"
+    ],
+    "description": "An English surname-derived given name linked to place-name elements, historically connected with woad and a hill or mound.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "uniqua-f",
+    "name": "Uniqua",
+    "slug": "uniqua",
+    "gender": "female",
+    "origins": [
+      "Modern English",
+      "Latin"
+    ],
+    "meaning": "One of a Kind",
+    "meaningKeywords": [
+      "wordname",
+      "individuality",
+      "modern",
+      "latin"
+    ],
+    "description": "A modern word-based name derived from unique, ultimately from Latin, emphasizing singularity and distinct personal identity.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aj",
+        "Antavious",
+        "Aceson",
+        "Aundrey",
+        "Arkeem"
+      ],
+      "sisters": [
+        "Aubrielle",
+        "Anniyah",
+        "Adysen",
+        "Amberleigh",
+        "Avree"
+      ]
+    }
+  },
+  {
+    "id": "ulrich-m",
+    "name": "Ulrich",
+    "slug": "ulrich",
+    "gender": "male",
+    "origins": [
+      "Germanic"
+    ],
+    "meaning": "Prosperity Ruler",
+    "meaningKeywords": [
+      "wealth",
+      "rule",
+      "german",
+      "medieval"
+    ],
+    "description": "Ulrich is a traditional Germanic name formed from elements denoting heritage or prosperity and rulership, common in medieval records.",
+    "popularity": {
+      "usa": 10792,
+      "trend": "falling"
+    },
+    "syllables": 2,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "uriyah-m",
+    "name": "Uriyah",
+    "slug": "uriyah",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "theophoric",
+      "hebrew"
+    ],
+    "description": "Variant of Uriah, a Hebrew theophoric name commonly interpreted as God is my light, used in religiously influenced communities.",
+    "popularity": {
+      "usa": 3767,
+      "trend": "falling"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "ulysess-m",
+    "name": "Ulysess",
+    "slug": "ulysess",
+    "gender": "male",
+    "origins": [
+      "Greek",
+      "Latin"
+    ],
+    "meaning": "Wrathful",
+    "meaningKeywords": [
+      "classical",
+      "heroic",
+      "variant"
+    ],
+    "description": "Variant spelling of Ulysses, the Latin form of Odysseus, associated with classical epic traditions and heroic narratives.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Ulyie",
+      "Ulys"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "uchenna-m",
+    "name": "Uchenna",
+    "slug": "uchenna",
+    "gender": "male",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Gods Will",
+    "meaningKeywords": [
+      "igbo",
+      "theophoric",
+      "destiny"
+    ],
+    "description": "Uchenna is an Igbo name meaning Gods will, expressing religious orientation and acceptance of destiny in naming practice.",
+    "popularity": {
+      "usa": 12195,
+      "trend": "falling"
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uchie",
+      "Uche"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "uyen-f",
+    "name": "Uyen",
+    "slug": "uyen",
+    "gender": "female",
+    "origins": [
+      "Vietnamese"
+    ],
+    "meaning": "Gentle; Graceful",
+    "meaningKeywords": [
+      "vietnamese",
+      "feminine",
+      "virtue",
+      "concise"
+    ],
+    "description": "A Vietnamese given name, it is associated with gentleness and grace and is used widely in Vietnam and diaspora communities.",
+    "syllables": 1,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "An",
+        "Anh",
+        "Binh",
+        "Chi",
+        "Cuong"
+      ],
+      "sisters": [
+        "Anh",
+        "An",
+        "Anhthu",
+        "Bich",
+        "Chi"
+      ]
+    }
+  },
+  {
+    "id": "utah-m",
+    "name": "Utah",
+    "slug": "utah",
+    "gender": "male",
+    "origins": [
+      "Ute",
+      "English"
+    ],
+    "meaning": "People of the Mountains",
+    "meaningKeywords": [
+      "place",
+      "state",
+      "indigenous",
+      "toponym",
+      "unisex"
+    ],
+    "description": "Toponym used as a given name, taken from the U.S. state name derived from Indigenous ethnonym traditions.",
+    "popularity": {
+      "usa": 9774,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "umer-m",
+    "name": "Umer",
+    "slug": "umer",
+    "gender": "male",
+    "origins": [
+      "Arabic",
+      "South Asian"
+    ],
+    "meaning": "Life; Long-lived",
+    "meaningKeywords": [
+      "arabic",
+      "umar",
+      "variant",
+      "masculine",
+      "islamic"
+    ],
+    "description": "South Asian transliteration variant of Umar, commonly linked to meanings of life or long-lived and prominent in Islamic naming traditions.",
+    "popularity": {
+      "usa": 14058,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "urvi-f",
+    "name": "Urvi",
+    "slug": "urvi",
+    "gender": "female",
+    "origins": [
+      "Sanskrit",
+      "Indian"
+    ],
+    "meaning": "Earth",
+    "meaningKeywords": [
+      "hindu",
+      "sanskrit",
+      "nature",
+      "earth"
+    ],
+    "description": "Indian feminine name from Sanskrit usage, associated with the earth and natural groundedness in classical literature.",
+    "popularity": {
+      "usa": 8368,
+      "trend": "falling"
+    },
+    "syllables": 2,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aditya",
+        "Amar",
+        "Ajay",
+        "Arnav",
+        "Anish"
+      ],
+      "sisters": [
+        "Ayana",
+        "Asha",
+        "Amiya",
+        "Anjali",
+        "Anisha"
+      ]
+    }
+  },
+  {
+    "id": "urias-m",
+    "name": "Urias",
+    "slug": "urias",
+    "gender": "male",
+    "origins": [
+      "Hebrew",
+      "Greek"
+    ],
+    "meaning": "Light of God",
+    "meaningKeywords": [
+      "biblical",
+      "theophoric",
+      "scripture",
+      "ancient"
+    ],
+    "description": "Urias is a form of Uriah mediated through Greek and Latin traditions, commonly interpreted as light of God.",
+    "popularity": {
+      "usa": 4856,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "uthman-m",
+    "name": "Uthman",
+    "slug": "uthman",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Young Serpent",
+    "meaningKeywords": [
+      "arabic",
+      "islamic",
+      "historical",
+      "caliph"
+    ],
+    "description": "Arabic name with early Islamic prominence, notably borne by Uthman ibn Affan in historical religious narratives.",
+    "popularity": {
+      "usa": 4402,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ugo-m",
+    "name": "Ugo",
+    "slug": "ugo",
+    "gender": "male",
+    "origins": [
+      "Germanic",
+      "Italian"
+    ],
+    "meaning": "Mind and Spirit",
+    "meaningKeywords": [
+      "mind",
+      "spirit",
+      "italian",
+      "germanic"
+    ],
+    "description": "Italian form of Hugh, from Germanic roots meaning mind or spirit, historically common in medieval Europe.",
+    "popularity": {
+      "usa": 14054,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "uriel-f",
+    "name": "Uriel",
+    "slug": "uriel",
+    "gender": "female",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "angel",
+      "light",
+      "hebrew"
+    ],
+    "description": "A Hebrew name meaning God is my light, used in Jewish tradition and later associated with an archangel in some texts.",
+    "popularity": {
+      "usa": 8889,
+      "trend": "rising",
+      "latestYear": 2024
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "unice-f",
+    "name": "Unice",
+    "slug": "unice",
+    "gender": "female",
+    "origins": [
+      "Greek"
+    ],
+    "meaning": "Good Victory",
+    "meaningKeywords": [
+      "variant",
+      "classical",
+      "virtue",
+      "heritage"
+    ],
+    "description": "Unice represents a spelling variation of Eunice, derived from Greek elements meaning good and victory.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "urian-m",
+    "name": "Urian",
+    "slug": "urian",
+    "gender": "male",
+    "origins": [
+      "Welsh",
+      "Hebrew Influence"
+    ],
+    "meaning": "Light of God",
+    "meaningKeywords": [
+      "light",
+      "faith",
+      "heritage",
+      "identity"
+    ],
+    "description": "Urian appears in medieval Welsh contexts and may relate linguistically to names associated with divine light.",
+    "popularity": {
+      "usa": 12198,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Avon",
+        "Alwyn",
+        "Aeron",
+        "Arth",
+        "Arvon"
+      ],
+      "sisters": [
+        "Arwen",
+        "Ardyth",
+        "Avon",
+        "Arwyn",
+        "Aerilyn"
+      ]
+    }
+  },
+  {
+    "id": "ugochukwu-m",
+    "name": "Ugochukwu",
+    "slug": "ugochukwu",
+    "gender": "male",
+    "origins": [
+      "Igbo",
+      "Nigerian"
+    ],
+    "meaning": "Gods Glory",
+    "meaningKeywords": [
+      "faith",
+      "glory",
+      "spirituality",
+      "culture"
+    ],
+    "description": "Ugochukwu is an Igbo theophoric name meaning the glory or honor of God.",
+    "popularity": {
+      "usa": 12196,
+      "trend": "stable"
+    },
+    "syllables": 4,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Ugoie",
+      "Ugoc"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "uziah-m",
+    "name": "Uziah",
+    "slug": "uziah",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Strength",
+    "meaningKeywords": [
+      "biblical",
+      "hebrew",
+      "strength",
+      "masculine"
+    ],
+    "description": "A biblical Hebrew name borne by several figures, expressing reliance on divine strength in its theophoric structure.",
+    "popularity": {
+      "usa": 5205,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "usiel-m",
+    "name": "Usiel",
+    "slug": "usiel",
+    "gender": "male",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Strength",
+    "meaningKeywords": [
+      "theophoric",
+      "hebrew",
+      "angelic",
+      "masculine"
+    ],
+    "description": "A Hebrew theophoric name, sometimes associated with angelic naming traditions in later interpretive sources.",
+    "popularity": {
+      "usa": 12200,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "umaiza-f",
+    "name": "Umaiza",
+    "slug": "umaiza",
+    "gender": "female",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Protection",
+    "meaningKeywords": [
+      "arabic",
+      "feminine",
+      "variant"
+    ],
+    "description": "Umaiza is an Arabic-influenced feminine name, sometimes treated as a variant of Umaiza or Umayza forms, with meanings reported inconsistently.",
+    "popularity": {
+      "usa": 8366,
+      "trend": "rising"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ulis-m",
+    "name": "Ulis",
+    "slug": "ulis",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "meaning": "Wrathful; Hateful",
+    "meaningKeywords": [
+      "classical",
+      "variant",
+      "mythic"
+    ],
+    "description": "Ulis is a shortened form related to Ulysses, a Latin name associated with Odysseus traditions, with meanings historically debated in scholarship.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ulysse-m",
+    "name": "Ulysse",
+    "slug": "ulysse",
+    "gender": "male",
+    "origins": [
+      "Greek",
+      "French"
+    ],
+    "meaning": "Wrathful Wanderer",
+    "meaningKeywords": [
+      "odysseus",
+      "epic",
+      "voyage",
+      "classical"
+    ],
+    "description": "Ulysse is the French form of Odysseus, referencing Homeric literature and themes of travel and endurance.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "uday-m",
+    "name": "Uday",
+    "slug": "uday",
+    "gender": "male",
+    "origins": [
+      "Sanskrit"
+    ],
+    "meaning": "Rising Dawn",
+    "meaningKeywords": [
+      "dawn",
+      "sunrise",
+      "indian"
+    ],
+    "description": "Derived from Sanskrit for rising or dawn, it is widely used across India with auspicious sunrise symbolism.",
+    "popularity": {
+      "usa": 7676,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aditya",
+        "Amar",
+        "Ajay",
+        "Arnav",
+        "Anish"
+      ],
+      "sisters": [
+        "Ayana",
+        "Asha",
+        "Amiya",
+        "Anjali",
+        "Anisha"
+      ]
+    }
+  },
+  {
+    "id": "uldine-f",
+    "name": "Uldine",
+    "slug": "uldine",
+    "gender": "female",
+    "origins": [
+      "Germanic",
+      "English"
+    ],
+    "meaning": "Wolf; Champion",
+    "meaningKeywords": [
+      "rare",
+      "vintage",
+      "germanic",
+      "feminine"
+    ],
+    "description": "A rare early twentieth-century given name with unclear derivation, possibly influenced by Germanic-sounding constructions.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "nicknames": [
+      "Uld"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "ulyssa-f",
+    "name": "Ulyssa",
+    "slug": "ulyssa",
+    "gender": "female",
+    "origins": [
+      "Greek",
+      "Latin"
+    ],
+    "meaning": "Wrathful or Enduring",
+    "meaningKeywords": [
+      "classical",
+      "odyssey",
+      "feminine",
+      "variant"
+    ],
+    "description": "A feminine variant related to Ulysses, it carries classical associations and is employed as a literary-inspired modern given name.",
+    "popularity": {
+      "usa": 11001,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "urie-m",
+    "name": "Urie",
+    "slug": "urie",
+    "gender": "male",
+    "origins": [
+      "Hebrew",
+      "Scottish"
+    ],
+    "meaning": "My Light",
+    "meaningKeywords": [
+      "light",
+      "hebrew",
+      "unisex",
+      "biblical"
+    ],
+    "description": "Related to Uri and Uriel traditions, it conveys light imagery and appears in both biblical and Scottish-influenced naming contexts.",
+    "popularity": {
+      "usa": 12199,
+      "trend": "stable"
+    },
+    "syllables": 1,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "uriyah-f",
+    "name": "Uriyah",
+    "slug": "uriyah",
+    "gender": "female",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "theophoric",
+      "hebrew"
+    ],
+    "description": "Variant of Uriah, a Hebrew theophoric name commonly interpreted as God is my light, used in religiously influenced communities.",
+    "popularity": {
+      "usa": 11003,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "urania-f",
+    "name": "Urania",
+    "slug": "urania",
+    "gender": "female",
+    "origins": [
+      "Greek"
+    ],
+    "meaning": "Heavenly",
+    "meaningKeywords": [
+      "greek",
+      "astronomy",
+      "muse"
+    ],
+    "description": "Urania is a classical Greek name linked to the heavenly realm and the muse associated with astronomy and learning.",
+    "syllables": 4,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "uchenna-f",
+    "name": "Uchenna",
+    "slug": "uchenna",
+    "gender": "female",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Gods Will",
+    "meaningKeywords": [
+      "igbo",
+      "theophoric",
+      "destiny"
+    ],
+    "description": "Uchenna is an Igbo name meaning Gods will, expressing religious orientation and acceptance of destiny in naming practice.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uchie",
+      "Uche"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "ugonna-m",
+    "name": "Ugonna",
+    "slug": "ugonna",
+    "gender": "male",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Father's Honor",
+    "meaningKeywords": [
+      "igbo",
+      "heritage",
+      "honor",
+      "masculine"
+    ],
+    "description": "Ugonna is an Igbo name emphasizing honor within kinship, commonly interpreted as referring to a father's dignity.",
+    "popularity": {
+      "usa": 8242,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "uva-f",
+    "name": "Uva",
+    "slug": "uva",
+    "gender": "female",
+    "origins": [
+      "Latin",
+      "Italian"
+    ],
+    "meaning": "Grape",
+    "meaningKeywords": [
+      "latin",
+      "botanical",
+      "short",
+      "feminine"
+    ],
+    "description": "Uva is a short name associated with the Latin and Italian word for grape, lending a botanical semantic association.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ulonda-f",
+    "name": "Ulonda",
+    "slug": "ulonda",
+    "gender": "female",
+    "origins": [
+      "American",
+      "African"
+    ],
+    "meaning": "Wolf; God/Beloved",
+    "meaningKeywords": [
+      "modern",
+      "invented",
+      "feminine",
+      "rare"
+    ],
+    "description": "Ulonda is a contemporary coinage with uncertain linguistic origins, characterized by prefixal vowel onset and rhythmic syllable structure.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Avion",
+        "Avyon",
+        "Anakyn",
+        "Braelyn",
+        "Bubba"
+      ],
+      "sisters": [
+        "Alaysia",
+        "Arizbeth",
+        "Anyiah",
+        "Anetra",
+        "Alyric"
+      ]
+    }
+  },
+  {
+    "id": "usama-m",
+    "name": "Usama",
+    "slug": "usama",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Lion",
+    "meaningKeywords": [
+      "arabic",
+      "animal",
+      "strength",
+      "masculine"
+    ],
+    "description": "Usama is an Arabic given name meaning lion, historically used to convey courage and strength through animal symbolism.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "umi-f",
+    "name": "Umi",
+    "slug": "umi",
+    "gender": "female",
+    "origins": [
+      "Japanese",
+      "Arabic"
+    ],
+    "meaning": "Sea; My Mother",
+    "meaningKeywords": [
+      "short",
+      "unisex",
+      "crosscultural"
+    ],
+    "description": "A short name with multiple origins, meaning sea in Japanese and my mother in Arabic, depending on context.",
+    "popularity": {
+      "usa": 8887,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akira",
+        "Aizen",
+        "Akai",
+        "Akari",
+        "Akio"
+      ],
+      "sisters": [
+        "Aiko",
+        "Akari",
+        "Akemi",
+        "Akiko",
+        "Akyra"
+      ]
+    }
+  },
+  {
+    "id": "upton-m",
+    "name": "Upton",
+    "slug": "upton",
+    "gender": "male",
+    "origins": [
+      "English"
+    ],
+    "meaning": "Upper Town",
+    "meaningKeywords": [
+      "surname",
+      "toponym",
+      "masculine"
+    ],
+    "description": "An English surname-derived given name from a place meaning upper town, reflecting toponymic naming practices.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "ulyana-f",
+    "name": "Ulyana",
+    "slug": "ulyana",
+    "gender": "female",
+    "origins": [
+      "Slavic",
+      "Latin"
+    ],
+    "meaning": "Youthful",
+    "meaningKeywords": [
+      "youth",
+      "light",
+      "slavic"
+    ],
+    "description": "Used in East Slavic contexts, it relates to forms of Julia and carries associations of youth and vitality.",
+    "popularity": {
+      "usa": 17447,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alek",
+        "Aleksander",
+        "Andrey",
+        "Andrik",
+        "Andrej"
+      ],
+      "sisters": [
+        "Ania",
+        "Aleksandra",
+        "Alyna",
+        "Anja",
+        "Anica"
+      ]
+    }
+  },
+  {
+    "id": "ulus-m",
+    "name": "Ulus",
+    "slug": "ulus",
+    "gender": "male",
+    "origins": [
+      "Turkish"
+    ],
+    "meaning": "Nation; People",
+    "meaningKeywords": [
+      "turkish",
+      "people",
+      "collective"
+    ],
+    "description": "A Turkish term-name meaning nation or people, sometimes used to signal collective identity and civic affiliation.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aydin",
+        "Aydan",
+        "Aidyn",
+        "Aslan",
+        "Aylan"
+      ],
+      "sisters": [
+        "Aleyna",
+        "Alara",
+        "Ayda",
+        "Aidyn",
+        "Aiyla"
+      ]
+    }
+  },
+  {
+    "id": "uzma-f",
+    "name": "Uzma",
+    "slug": "uzma",
+    "gender": "female",
+    "origins": [
+      "Arabic",
+      "Urdu"
+    ],
+    "meaning": "Greatest",
+    "meaningKeywords": [
+      "eminence",
+      "urdu",
+      "arabic"
+    ],
+    "description": "Widely used in South Asia, it derives from Arabic aazama-related roots and is interpreted as greatest or most eminent.",
+    "popularity": {
+      "usa": 17453,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "usha-f",
+    "name": "Usha",
+    "slug": "usha",
+    "gender": "female",
+    "origins": [
+      "Sanskrit"
+    ],
+    "meaning": "Dawn",
+    "meaningKeywords": [
+      "sanskrit",
+      "dawn",
+      "vedic",
+      "feminine"
+    ],
+    "description": "A Sanskrit name meaning dawn, prominent in Indic traditions and associated with the personified dawn in early Vedic literature.",
+    "syllables": 2,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aditya",
+        "Amar",
+        "Ajay",
+        "Arnav",
+        "Anish"
+      ],
+      "sisters": [
+        "Ayana",
+        "Asha",
+        "Amiya",
+        "Anjali",
+        "Anisha"
+      ]
+    }
+  },
+  {
+    "id": "uchechukwu-m",
+    "name": "Uchechukwu",
+    "slug": "uchechukwu",
+    "gender": "male",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Gods Will",
+    "meaningKeywords": [
+      "igbo",
+      "theophoric",
+      "faith",
+      "will"
+    ],
+    "description": "Uchechukwu is an Igbo theophoric name meaning Gods will or intention, expressing religious orientation in personal naming.",
+    "syllables": 4,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uchie",
+      "Uche"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "ulyess-m",
+    "name": "Ulyess",
+    "slug": "ulyess",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Greek"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "classical",
+      "variant",
+      "odysseus",
+      "masculine"
+    ],
+    "description": "A variant of Ulysses, derived from the Latin form of Odysseus, with traditional glosses involving anger or enmity.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "uri-f",
+    "name": "Uri",
+    "slug": "uri",
+    "gender": "female",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "My Light",
+    "meaningKeywords": [
+      "biblical",
+      "light",
+      "short"
+    ],
+    "description": "A Hebrew biblical name, it is typically interpreted as light or flame and remains common in Jewish naming practice.",
+    "popularity": {
+      "usa": 8888,
+      "trend": "falling"
+    },
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "ulys-m",
+    "name": "Ulys",
+    "slug": "ulys",
+    "gender": "male",
+    "origins": [
+      "Greek",
+      "French"
+    ],
+    "meaning": "Wrathful; Hated",
+    "meaningKeywords": [
+      "classical",
+      "odysseus",
+      "shortform"
+    ],
+    "description": "Ulys is a shortened form associated with Ulysses, deriving from the Latinized Odysseus of Greek epic tradition.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Andreas",
+        "Alexzander",
+        "Alexandro",
+        "Andrea",
+        "Alexandre"
+      ],
+      "sisters": [
+        "Agnes",
+        "Angeline",
+        "Asia",
+        "Angelia",
+        "Alexus"
+      ]
+    }
+  },
+  {
+    "id": "udell-f",
+    "name": "Udell",
+    "slug": "udell",
+    "gender": "female",
+    "origins": [
+      "English"
+    ],
+    "meaning": "Woad Hill",
+    "meaningKeywords": [
+      "surname",
+      "toponym",
+      "oldenglish",
+      "rare"
+    ],
+    "description": "An English surname-derived given name linked to place-name elements, historically connected with woad and a hill or mound.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "ulice-m",
+    "name": "Ulice",
+    "slug": "ulice",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Slavic"
+    ],
+    "meaning": "Of Ulysses",
+    "meaningKeywords": [
+      "variant",
+      "classical",
+      "rare"
+    ],
+    "description": "Ulice is a rare variant related to Ulysses forms in Slavic contexts, reflecting Latinized classical naming influence.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "uzoma-m",
+    "name": "Uzoma",
+    "slug": "uzoma",
+    "gender": "male",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Good Way",
+    "meaningKeywords": [
+      "igbo",
+      "good",
+      "path",
+      "virtue",
+      "given"
+    ],
+    "description": "An Igbo name expressing the idea of a good path or way, commonly used to convey favorable destiny and conduct.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "unika-f",
+    "name": "Unika",
+    "slug": "unika",
+    "gender": "female",
+    "origins": [
+      "Modern English",
+      "Latin"
+    ],
+    "meaning": "Unique",
+    "meaningKeywords": [
+      "unique",
+      "modern",
+      "feminine",
+      "meaning"
+    ],
+    "description": "Modern name formed from unique, ultimately from Latin unicus, directly signaling singularity or distinctiveness in contemporary English usage.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aj",
+        "Antavious",
+        "Aceson",
+        "Aundrey",
+        "Arkeem"
+      ],
+      "sisters": [
+        "Aubrielle",
+        "Anniyah",
+        "Adysen",
+        "Amberleigh",
+        "Avree"
+      ]
+    }
+  },
+  {
+    "id": "ustin-m",
+    "name": "Ustin",
+    "slug": "ustin",
+    "gender": "male",
+    "origins": [
+      "Russian",
+      "Latin"
+    ],
+    "meaning": "Just or Righteous",
+    "meaningKeywords": [
+      "slavic",
+      "christian",
+      "latin",
+      "virtue"
+    ],
+    "description": "A Slavic form related to Justin, ultimately from Latin for just, used in Eastern Christian naming traditions.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aleksey",
+        "Alexey",
+        "Aleksei",
+        "Artyom",
+        "Anikin"
+      ],
+      "sisters": [
+        "Alesha",
+        "Anushka",
+        "Anoushka",
+        "Annya",
+        "Alyona"
+      ]
+    }
+  },
+  {
+    "id": "uilani-f",
+    "name": "Uilani",
+    "slug": "uilani",
+    "gender": "female",
+    "origins": [
+      "Hawaiian"
+    ],
+    "meaning": "Heavenly Beauty",
+    "meaningKeywords": [
+      "hawaiian",
+      "sky",
+      "beauty",
+      "feminine"
+    ],
+    "description": "A Hawaiian-language name, it is associated with poetic imagery and is used both locally and in diaspora communities.",
+    "syllables": 3,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alika",
+        "Akoni",
+        "Alekai",
+        "Alikai",
+        "Alani"
+      ],
+      "sisters": [
+        "Anela",
+        "Aulani",
+        "Ahlani",
+        "Aolani",
+        "Aloha"
+      ]
+    }
+  },
+  {
+    "id": "uhtred-m",
+    "name": "Uhtred",
+    "slug": "uhtred",
+    "gender": "male",
+    "origins": [
+      "Old English"
+    ],
+    "meaning": "Wealth Counsel",
+    "meaningKeywords": [
+      "anglosaxon",
+      "history",
+      "warrior",
+      "meaning"
+    ],
+    "description": "An Old English name traditionally analyzed as a compound referring to wealth and counsel, associated with early medieval England.",
+    "popularity": {
+      "usa": 6414,
+      "trend": "rising"
+    },
+    "syllables": 1,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Athel",
+        "Beverly",
+        "Brooke",
+        "Beorn",
+        "Beowulf"
+      ],
+      "sisters": [
+        "Alfred",
+        "Aftyn",
+        "Athelene",
+        "Beverly",
+        "Brooklinn"
+      ]
+    }
+  },
+  {
+    "id": "ugochi-f",
+    "name": "Ugochi",
+    "slug": "ugochi",
+    "gender": "female",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "Gods Blessing",
+    "meaningKeywords": [
+      "igbo",
+      "theophoric",
+      "westafrica",
+      "faith"
+    ],
+    "description": "Igbo theophoric name commonly interpreted as Gods blessing, reflecting gratitude and religious orientation in naming practice.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "undray-m",
+    "name": "Undray",
+    "slug": "undray",
+    "gender": "male",
+    "origins": [
+      "English",
+      "French"
+    ],
+    "meaning": "Manly; Warrior",
+    "meaningKeywords": [
+      "andre",
+      "variant",
+      "phonetic",
+      "masculine"
+    ],
+    "description": "A phonetic variant of Andre and Andrew forms, ultimately connected to a Greek root meaning manly.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "uno-m",
+    "name": "Uno",
+    "slug": "uno",
+    "gender": "male",
+    "origins": [
+      "Latin",
+      "Italian"
+    ],
+    "meaning": "One",
+    "meaningKeywords": [
+      "number",
+      "latin",
+      "italian",
+      "minimal"
+    ],
+    "description": "A number-based name from Italian and Latin for one, used as a minimalist given name in diverse settings.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "ulas-m",
+    "name": "Ulas",
+    "slug": "ulas",
+    "gender": "male",
+    "origins": [
+      "Turkish"
+    ],
+    "meaning": "Reach; Attain",
+    "meaningKeywords": [
+      "turkish",
+      "verbroot",
+      "achievement",
+      "modern"
+    ],
+    "description": "A Turkish given name derived from a verb meaning to reach or attain, emphasizing achievement and arrival.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aydin",
+        "Aydan",
+        "Aidyn",
+        "Aslan",
+        "Aylan"
+      ],
+      "sisters": [
+        "Aleyna",
+        "Alara",
+        "Ayda",
+        "Aidyn",
+        "Aiyla"
+      ]
+    }
+  },
+  {
+    "id": "ulanni-f",
+    "name": "Ulanni",
+    "slug": "ulanni",
+    "gender": "female",
+    "origins": [
+      "Hawaiian",
+      "Modern English"
+    ],
+    "meaning": "Wolf",
+    "meaningKeywords": [
+      "hawaiian",
+      "modern",
+      "variant",
+      "phonetic"
+    ],
+    "description": "A modern name with Hawaiian-like structure, though documented meaning and historical usage are not consistent across sources.",
+    "popularity": {
+      "usa": 11000,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alika",
+        "Akoni",
+        "Alekai",
+        "Alikai",
+        "Alani"
+      ],
+      "sisters": [
+        "Anela",
+        "Aulani",
+        "Ahlani",
+        "Aolani",
+        "Aloha"
+      ]
+    }
+  },
+  {
+    "id": "ulla-f",
+    "name": "Ulla",
+    "slug": "ulla",
+    "gender": "female",
+    "origins": [
+      "Germanic",
+      "Scandinavian"
+    ],
+    "meaning": "Heritage; Will",
+    "meaningKeywords": [
+      "nordic",
+      "short",
+      "traditional",
+      "feminine"
+    ],
+    "description": "A Scandinavian short form linked to names like Ulrika, historically used in Germanic-speaking regions.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "uchechi-f",
+    "name": "Uchechi",
+    "slug": "uchechi",
+    "gender": "female",
+    "origins": [
+      "Igbo"
+    ],
+    "meaning": "God's Will",
+    "meaningKeywords": [
+      "god",
+      "will",
+      "igbo",
+      "devotional"
+    ],
+    "description": "An Igbo devotional name expressing divine will, commonly used in southeastern Nigeria and diasporic communities.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uchie",
+      "Uche"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "undine-f",
+    "name": "Undine",
+    "slug": "undine",
+    "gender": "female",
+    "origins": [
+      "Latin",
+      "German"
+    ],
+    "meaning": "Water Spirit",
+    "meaningKeywords": [
+      "water",
+      "mythic",
+      "elemental"
+    ],
+    "description": "Undine is a literary and mythological term for a water spirit, later adopted as a given name.",
+    "syllables": 2,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Und"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "umaima-f",
+    "name": "Umaima",
+    "slug": "umaima",
+    "gender": "female",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Little Mother",
+    "meaningKeywords": [
+      "arabic",
+      "diminutive",
+      "traditional"
+    ],
+    "description": "Umaima is an Arabic diminutive associated with mother, used historically and in contemporary Muslim communities with stable traditional interpretation.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ursala-f",
+    "name": "Ursala",
+    "slug": "ursala",
+    "gender": "female",
+    "origins": [
+      "Latin",
+      "German"
+    ],
+    "meaning": "Little Bear",
+    "meaningKeywords": [
+      "variant",
+      "animal",
+      "classic",
+      "mythic"
+    ],
+    "description": "Generally read as a variant of Ursula, from Latin ursus bear with a diminutive sense widely rendered as little bear.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "uliana-f",
+    "name": "Uliana",
+    "slug": "uliana",
+    "gender": "female",
+    "origins": [
+      "Slavic",
+      "Latin"
+    ],
+    "meaning": "Of Julius",
+    "meaningKeywords": [
+      "slavic",
+      "julian",
+      "latin",
+      "classic"
+    ],
+    "description": "Uliana is a Slavic form related to Juliana, ultimately linked to Julius-name traditions and interpreted as of Julius.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alek",
+        "Aleksander",
+        "Andrey",
+        "Andrik",
+        "Andrej"
+      ],
+      "sisters": [
+        "Ania",
+        "Aleksandra",
+        "Alyna",
+        "Anja",
+        "Anica"
+      ]
+    }
+  },
+  {
+    "id": "usbaldo-m",
+    "name": "Usbaldo",
+    "slug": "usbaldo",
+    "gender": "male",
+    "origins": [
+      "Spanish",
+      "Italian",
+      "Germanic"
+    ],
+    "meaning": "God Ruler",
+    "meaningKeywords": [
+      "germanic",
+      "ruler",
+      "saints"
+    ],
+    "description": "Variant of Osvaldo, ultimately from Germanic elements for deity and rule, transmitted through Romance-language naming traditions.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Usbie",
+      "Usba"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alphonso",
+        "Arnulfo",
+        "Amado",
+        "Anibal",
+        "Alonza"
+      ],
+      "sisters": [
+        "Angelita",
+        "Aracely",
+        "Abril",
+        "Almeda",
+        "Azul"
+      ]
+    }
+  },
+  {
+    "id": "umme-f",
+    "name": "Umme",
+    "slug": "umme",
+    "gender": "female",
+    "origins": [
+      "Arabic",
+      "Urdu"
+    ],
+    "meaning": "Mother",
+    "meaningKeywords": [
+      "arabic",
+      "kinship",
+      "honorific"
+    ],
+    "description": "Derived from Arabic umm meaning mother, often used as a component or standalone form in South Asian Muslim naming.",
+    "popularity": {
+      "usa": 11002,
+      "trend": "falling"
+    },
+    "syllables": 1,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ulmer-m",
+    "name": "Ulmer",
+    "slug": "ulmer",
+    "gender": "male",
+    "origins": [
+      "German"
+    ],
+    "meaning": "From Ulm",
+    "meaningKeywords": [
+      "toponymic",
+      "german",
+      "surname",
+      "modern"
+    ],
+    "description": "Ulmer is a toponymic German surname sometimes used as a given name, indicating association with the city of Ulm.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alois",
+        "Aloys",
+        "Alter",
+        "Anzel",
+        "Almin"
+      ],
+      "sisters": [
+        "Annamarie",
+        "Annelise",
+        "Anneliese",
+        "Analiese",
+        "Annalie"
+      ]
+    }
+  },
+  {
+    "id": "ulrick-m",
+    "name": "Ulrick",
+    "slug": "ulrick",
+    "gender": "male",
+    "origins": [
+      "Germanic"
+    ],
+    "meaning": "Wolf Ruler",
+    "meaningKeywords": [
+      "germanic",
+      "medieval",
+      "leadership",
+      "animal"
+    ],
+    "description": "From Germanic elements for wolf and rule, the name reflects medieval naming patterns emphasizing power and protection.",
+    "syllables": 2,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "urijah-f",
+    "name": "Urijah",
+    "slug": "urijah",
+    "gender": "female",
+    "origins": [
+      "Hebrew"
+    ],
+    "meaning": "The Lord Is My Light",
+    "meaningKeywords": [
+      "biblical",
+      "light",
+      "hebrew",
+      "masculine"
+    ],
+    "description": "Urijah is a variant of Uriah, a biblical Hebrew name expressing divine light and longstanding scriptural associations.",
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    },
+    "popularity": {
+      "usa": 999999,
+      "trend": "stable",
+      "latestYear": 2024
+    }
+  },
+  {
+    "id": "unita-f",
+    "name": "Unita",
+    "slug": "unita",
+    "gender": "female",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "meaning": "Unity",
+    "meaningKeywords": [
+      "virtue",
+      "latin",
+      "english",
+      "abstract"
+    ],
+    "description": "A virtue derived name related to unity, appearing in English usage as a moral and social ideal.",
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "udy-f",
+    "name": "Udy",
+    "slug": "udy",
+    "gender": "female",
+    "origins": [
+      "Hebrew",
+      "English"
+    ],
+    "meaning": "My Fire",
+    "meaningKeywords": [
+      "short",
+      "biblical",
+      "modern"
+    ],
+    "description": "A short form sometimes linked to Hebrew roots for fire, though it may also function as an independent modern nickname.",
+    "syllables": 2,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "ubah-f",
+    "name": "Ubah",
+    "slug": "ubah",
+    "gender": "female",
+    "origins": [
+      "Somali",
+      "Arabic"
+    ],
+    "meaning": "Flower",
+    "meaningKeywords": [
+      "somali",
+      "nature",
+      "feminine"
+    ],
+    "description": "Ubah appears in Somali usage and is commonly glossed with a botanical sense, often rendered as flower.",
+    "syllables": 2,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abshir",
+        "Guled",
+        "Hamse",
+        "Liban",
+        "Mucad"
+      ],
+      "sisters": [
+        "Ayan",
+        "Bilan",
+        "Faduma",
+        "Fartun",
+        "Farhiya"
+      ]
+    }
+  },
+  {
+    "id": "uzay-m",
+    "name": "Uzay",
+    "slug": "uzay",
+    "gender": "male",
+    "origins": [
+      "Turkish"
+    ],
+    "meaning": "Outer Space",
+    "meaningKeywords": [
+      "turkish",
+      "cosmic",
+      "masculine"
+    ],
+    "description": "Uzay is a Turkish word-name meaning outer space, adopted as a given name with a scientific lexical origin.",
+    "popularity": {
+      "usa": 9775,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aydin",
+        "Aydan",
+        "Aidyn",
+        "Aslan",
+        "Aylan"
+      ],
+      "sisters": [
+        "Aleyna",
+        "Alara",
+        "Ayda",
+        "Aidyn",
+        "Aiyla"
+      ]
+    }
+  },
+  {
+    "id": "undra-f",
+    "name": "Undra",
+    "slug": "undra",
+    "gender": "female",
+    "origins": [
+      "English",
+      "Sanskrit"
+    ],
+    "meaning": "Lamb; Ewe",
+    "meaningKeywords": [
+      "rare",
+      "variant",
+      "indra",
+      "modern"
+    ],
+    "description": "Uncommon name possibly influenced by Indra-like phonology, though reliable etymological documentation remains limited.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Alton",
+        "Al",
+        "Ashley",
+        "Addison",
+        "Anson"
+      ],
+      "sisters": [
+        "Arlene",
+        "Addie",
+        "Ashlee",
+        "Ashleigh",
+        "Audra"
+      ]
+    }
+  },
+  {
+    "id": "usmon-m",
+    "name": "Usmon",
+    "slug": "usmon",
+    "gender": "male",
+    "origins": [
+      "Arabic",
+      "Turkic"
+    ],
+    "meaning": "Uthman Variant",
+    "meaningKeywords": [
+      "islamic",
+      "variant",
+      "historical",
+      "name"
+    ],
+    "description": "Usmon functions as a regional variant of Uthman, used across Islamic influenced naming traditions with stable historical reference.",
+    "popularity": {
+      "usa": 5621,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "urho-m",
+    "name": "Urho",
+    "slug": "urho",
+    "gender": "male",
+    "origins": [
+      "Finnish"
+    ],
+    "meaning": "Brave",
+    "meaningKeywords": [
+      "finnish",
+      "courage",
+      "historic",
+      "male"
+    ],
+    "description": "Finnish name meaning brave, historically associated with Finnish national usage and notable twentieth-century cultural references.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare",
+      "Strong",
+      "Powerful",
+      "Bold"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Eino",
+        "Eero",
+        "Jari",
+        "Jori",
+        "Jorma"
+      ],
+      "sisters": [
+        "Aili",
+        "Aina",
+        "Aava",
+        "Avo",
+        "Aino"
+      ]
+    }
+  },
+  {
+    "id": "urwa-f",
+    "name": "Urwa",
+    "slug": "urwa",
+    "gender": "female",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Firm Support",
+    "meaningKeywords": [
+      "arabic",
+      "steadfastness",
+      "religious",
+      "feminine",
+      "classical"
+    ],
+    "description": "Urwa is an Arabic name associated with the idea of a firm support or bond, attested in classical Islamic naming.",
+    "popularity": {
+      "usa": 15069,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ulrik-m",
+    "name": "Ulrik",
+    "slug": "ulrik",
+    "gender": "male",
+    "origins": [
+      "Scandinavian",
+      "Germanic"
+    ],
+    "meaning": "Wolf Ruler",
+    "meaningKeywords": [
+      "norse",
+      "germanic",
+      "animal",
+      "leadership"
+    ],
+    "description": "Scandinavian form of a Germanic name built from wolf and ruler elements, historically used across northern Europe.",
+    "popularity": {
+      "usa": 14057,
+      "trend": "rising"
+    },
+    "syllables": 2,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Axl",
+        "Aksel",
+        "Axell",
+        "Andersen",
+        "Axcel"
+      ],
+      "sisters": [
+        "Anitra",
+        "Anneka",
+        "Annica",
+        "Anely",
+        "Andersen"
+      ]
+    }
+  },
+  {
+    "id": "ursa-f",
+    "name": "Ursa",
+    "slug": "ursa",
+    "gender": "female",
+    "origins": [
+      "Latin"
+    ],
+    "meaning": "Female Bear",
+    "meaningKeywords": [
+      "constellation",
+      "latin",
+      "animal"
+    ],
+    "description": "Ursa is a Latin name meaning female bear, also evoking astronomical associations through the Ursa constellations.",
+    "popularity": {
+      "usa": 13319,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Celestial",
+      "Cosmic",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Anton",
+        "Antony",
+        "Austen",
+        "Antone",
+        "Artis"
+      ],
+      "sisters": [
+        "Antonia",
+        "Alta",
+        "Avis",
+        "Augusta",
+        "Adrian"
+      ]
+    }
+  },
+  {
+    "id": "uwais-m",
+    "name": "Uwais",
+    "slug": "uwais",
+    "gender": "male",
+    "origins": [
+      "Arabic"
+    ],
+    "meaning": "Little Wolf",
+    "meaningKeywords": [
+      "wolf",
+      "arabic",
+      "islamic",
+      "masculine"
+    ],
+    "description": "An Arabic name famously associated with Uwais al-Qarani, commonly glossed as little wolf in traditional interpretations.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akeem",
+        "Abdul",
+        "Ahmir",
+        "Amin",
+        "Ammar"
+      ],
+      "sisters": [
+        "Aniya",
+        "Aida",
+        "Anissa",
+        "Ali",
+        "Ayesha"
+      ]
+    }
+  },
+  {
+    "id": "ulrica-f",
+    "name": "Ulrica",
+    "slug": "ulrica",
+    "gender": "female",
+    "origins": [
+      "Germanic",
+      "Scandinavian"
+    ],
+    "meaning": "Wolf Ruler",
+    "meaningKeywords": [
+      "germanic",
+      "scandinavian",
+      "wolf",
+      "rule"
+    ],
+    "description": "A feminine form related to Ulrich, derived from Germanic elements interpreted as wolf and ruler.",
+    "syllables": 3,
+    "categories": [
+      "Royal",
+      "Regal",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Arnold",
+        "Aubrey",
+        "Adolph",
+        "Adolfo",
+        "Alphonse"
+      ],
+      "sisters": [
+        "Alberta",
+        "Alissa",
+        "Alisa",
+        "Aubrie",
+        "Adela"
+      ]
+    }
+  },
+  {
+    "id": "urielle-f",
+    "name": "Urielle",
+    "slug": "urielle",
+    "gender": "female",
+    "origins": [
+      "Hebrew",
+      "French"
+    ],
+    "meaning": "God Is My Light",
+    "meaningKeywords": [
+      "uriel",
+      "light",
+      "theophoric"
+    ],
+    "description": "Urielle is a feminine form of Uriel, from Hebrew elements commonly interpreted as God is my light.",
+    "popularity": {
+      "usa": 7542,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Biblical",
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uri",
+      "Uriie",
+      "Urie"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Abe",
+        "Arron",
+        "Aaden",
+        "Avraham",
+        "Ammon"
+      ],
+      "sisters": [
+        "Ann",
+        "Anita",
+        "Alisha",
+        "Abbie",
+        "Annmarie"
+      ]
+    }
+  },
+  {
+    "id": "umut-m",
+    "name": "Umut",
+    "slug": "umut",
+    "gender": "male",
+    "origins": [
+      "Turkish"
+    ],
+    "meaning": "Hope",
+    "meaningKeywords": [
+      "turkish",
+      "virtue",
+      "optimism"
+    ],
+    "description": "A Turkish given name meaning hope, used widely in Turkey and among diaspora communities with stable spelling and pronunciation.",
+    "popularity": {
+      "usa": 8895,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aydin",
+        "Aydan",
+        "Aidyn",
+        "Aslan",
+        "Aylan"
+      ],
+      "sisters": [
+        "Aleyna",
+        "Alara",
+        "Ayda",
+        "Aidyn",
+        "Aiyla"
+      ]
+    }
+  },
+  {
+    "id": "urbain-m",
+    "name": "Urbain",
+    "slug": "urbain",
+    "gender": "male",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "meaning": "Of the City",
+    "meaningKeywords": [
+      "urban",
+      "latin",
+      "french",
+      "historical"
+    ],
+    "description": "A French form of Urbanus, derived from Latin and interpreted as of the city, used historically in Europe.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Antoine",
+        "Armand",
+        "Antwan",
+        "Adrien",
+        "Antwon"
+      ],
+      "sisters": [
+        "Annette",
+        "Antoinette",
+        "Adrienne",
+        "Aimee",
+        "Angelique"
+      ]
+    }
+  },
+  {
+    "id": "urenna-f",
+    "name": "Urenna",
+    "slug": "urenna",
+    "gender": "female",
+    "origins": [
+      "Igbo",
+      "Nigerian"
+    ],
+    "meaning": "Father's Name",
+    "meaningKeywords": [
+      "father",
+      "name",
+      "igbo",
+      "nigeria"
+    ],
+    "description": "An Igbo name often analyzed as a phrase meaning father s name, with usage reflecting lineage and family identity.",
+    "popularity": {
+      "usa": 17451,
+      "trend": "stable"
+    },
+    "syllables": 3,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Amadi",
+        "Arinze",
+        "Amazi",
+        "Arinzechukwu",
+        "Chukwuemeka"
+      ],
+      "sisters": [
+        "Amarachi",
+        "Adanna",
+        "Adaeze",
+        "Adaora",
+        "Amadi"
+      ]
+    }
+  },
+  {
+    "id": "umeko-f",
+    "name": "Umeko",
+    "slug": "umeko",
+    "gender": "female",
+    "origins": [
+      "Japanese"
+    ],
+    "meaning": "Plum Blossom Child",
+    "meaningKeywords": [
+      "japanese",
+      "plum",
+      "blossom",
+      "traditional"
+    ],
+    "description": "A Japanese feminine name combining ume plum and ko child, historically common and associated with plum blossoms in seasonal symbolism.",
+    "syllables": 3,
+    "categories": [
+      "Nature",
+      "Natural",
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Akira",
+        "Aizen",
+        "Akai",
+        "Akari",
+        "Akio"
+      ],
+      "sisters": [
+        "Aiko",
+        "Akari",
+        "Akemi",
+        "Akiko",
+        "Akyra"
+      ]
+    }
+  },
+  {
+    "id": "uilliam-m",
+    "name": "Uilliam",
+    "slug": "uilliam",
+    "gender": "male",
+    "origins": [
+      "Irish",
+      "Germanic"
+    ],
+    "meaning": "Resolute Protector",
+    "meaningKeywords": [
+      "gaelic",
+      "variant",
+      "protector",
+      "classic"
+    ],
+    "description": "Irish Gaelic spelling of William, ultimately from Germanic roots meaning will and helmet, conventionally glossed as resolute protector.",
+    "popularity": {
+      "usa": 14055,
+      "trend": "stable"
+    },
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "nicknames": [
+      "Uilie",
+      "Uill"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aedan",
+        "Aven",
+        "Adian",
+        "Aeden",
+        "Ayven"
+      ],
+      "sisters": [
+        "Ashlynn",
+        "Arline",
+        "Arleen",
+        "Allene",
+        "Alannah"
+      ]
+    }
+  },
+  {
+    "id": "urja-f",
+    "name": "Urja",
+    "slug": "urja",
+    "gender": "female",
+    "origins": [
+      "Sanskrit",
+      "Indian"
+    ],
+    "meaning": "Energy; Vigor",
+    "meaningKeywords": [
+      "energy",
+      "sanskrit",
+      "virtue",
+      "indic"
+    ],
+    "description": "Urja is a Sanskrit-derived name meaning energy, commonly used to convey vitality and productive force in an abstract sense.",
+    "syllables": 2,
+    "categories": [
+      "Unique",
+      "Rare"
+    ],
+    "siblingSuggestions": {
+      "brothers": [
+        "Aditya",
+        "Amar",
+        "Ajay",
+        "Arnav",
+        "Anish"
+      ],
+      "sisters": [
+        "Ayana",
+        "Asha",
+        "Amiya",
+        "Anjali",
+        "Anisha"
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "templates": {
+    "origin-gender": {
+      "intro": "Discover beautiful **{origin} {gender} names** for your baby. These names carry the rich heritage and traditions of {origin} culture.\n\nWhether you're honoring your ancestry or simply love the sound of {origin} names, you'll find the perfect choice among these **{count}+ {origin} {gender} names** with meanings, origins, and popularity rankings.",
+      "seoTitle": "{count}+ {origin} {gender} Names - Traditional & Modern | Namylab",
+      "seoDescription": "Browse {count}+ {origin} {gender} names with meanings. Find the perfect {origin} name for your baby {genderNoun}."
+    },
+    "origin-meaning": {
+      "intro": "Looking for **{origin} names meaning {meaning}**? These powerful names combine {origin} heritage with the beautiful meaning of {meaning}.\n\nExplore **{count}+ {origin} names** that embody {meaning}, each with detailed information about origin, pronunciation, and popularity.",
+      "seoTitle": "{origin} Names Meaning {meaning} - {count}+ Beautiful Names | Namylab",
+      "seoDescription": "Find {origin} baby names meaning {meaning}. {count}+ names with {meaning} meanings from {origin} culture."
+    },
+    "gender-meaning": {
+      "intro": "Searching for **{gender} names meaning {meaning}**? Names with powerful meanings help shape your child's identity and convey your hopes for them.\n\nDiscover **{count}+ {gender} names** that mean {meaning}, complete with origins, pronunciations, and popularity trends.",
+      "seoTitle": "{gender} Names Meaning {meaning} - {count}+ Options | Namylab",
+      "seoDescription": "Browse {count}+ {gender} names meaning {meaning}. Beautiful names embodying {meaning} for your baby."
+    },
+    "letter-gender": {
+      "intro": "Browse our collection of **{gender} names starting with {letter}**. The letter {letter} offers many beautiful options for your baby.\n\nFind **{count}+ {gender} names** beginning with {letter}, from classic favorites to unique gems.",
+      "seoTitle": "{gender} Names Starting with {letter} - {count}+ Names | Namylab",
+      "seoDescription": "Discover {count}+ {gender} names that start with {letter}. Popular and unique {letter} names for your baby."
+    },
+    "origin-gender-meaning": {
+      "intro": "Find the perfect **{origin} {gender} name meaning {meaning}**. These names combine cultural heritage with powerful meaning.\n\nExplore **{count}+ {origin} {gender} names** embodying {meaning}, each carefully selected for its beauty and significance.",
+      "seoTitle": "{origin} {gender} Names Meaning {meaning} | Namylab",
+      "seoDescription": "{origin} {gender} names meaning {meaning}. {count}+ beautiful names with deep cultural roots."
+    },
+    "letter-origin": {
+      "intro": "Discover **{origin} names starting with {letter}**. Find the perfect {origin} name that begins with your favorite letter.\n\nBrowse **{count}+ {origin} names** beginning with {letter}, each with meanings and origins.",
+      "seoTitle": "{origin} Names Starting with {letter} | Namylab",
+      "seoDescription": "Find {origin} baby names that start with {letter}. {count}+ beautiful names with meanings."
+    },
+    "category-gender": {
+      "intro": "Explore **{category} {gender} names** for your baby. These names share a distinctive style that sets them apart.\n\nDiscover **{count}+ {category} {gender} names** with meanings, origins, and popularity rankings.",
+      "seoTitle": "{category} {gender} Baby Names - {count}+ Options | Namylab",
+      "seoDescription": "Browse {count}+ {category} {gender} names. Find the perfect {category} name for your baby."
+    },
+    "popularity-gender-country": {
+      "intro": "Discover the **most popular {gender} names in {country}** for 2024. These names are trending among new parents.\n\nBrowse **{count}+ popular {gender} names** ranked by popularity, with meanings and origins.",
+      "seoTitle": "Popular {gender} Names in {country} 2024 | Namylab",
+      "seoDescription": "See the top {count} most popular {gender} names in {country}. Current trends and rankings."
+    },
+    "syllables-gender": {
+      "intro": "Looking for **{syllableLabel} {gender} names**? Short names are punchy and memorable, while longer names offer elegance.\n\nDiscover **{count}+ {syllableLabel} {gender} names** perfect for your little one.",
+      "seoTitle": "{syllableLabel} {gender} Baby Names | Namylab",
+      "seoDescription": "Find {count}+ {syllableLabel} {gender} names. Short, memorable names for your baby."
+    },
+    "meaning": {
+      "intro": "Looking for the perfect **name meaning {keyword}** for your baby? These names embody the essence of {keyword}, carrying deep significance across cultures.\n\nNames with this meaning are often chosen to reflect hope, personality, or family heritage.\n\nBelow you'll find **{count}+ names meaning {keyword}**, each with detailed information about origin, pronunciation, and popularity.",
+      "sections": [
+        {
+          "title": "Why Choose a Name Meaning {keyword}?",
+          "content": "Names associated with {keyword} often convey a sense of purpose and identity. Parents who select these names typically want to bestow a specific quality or blessing upon their child from day one."
+        },
+        {
+          "title": "Popularity Trends",
+          "content": "While some {keyword} names are timeless classics, others are rising stars in the charts. Review the trend indicators below to see which names are currently capturing hearts."
+        }
+      ],
+      "relatedSearches": ["Strong names", "Nature names", "Unique names"]
+    },
+    "origin": {
+      "intro": "Explore our curated collection of **{title}**. These names carry the rich heritage and linguistic beauty of their culture.\n\nFrom traditional family names to modern favorites, these **{count} options** bridge the gap between past and present.\n\nDiscover the perfect name to honor your {keyword} roots below.",
+      "sections": [
+        {
+          "title": "The Beauty of {keyword} Names",
+          "content": "{keyword} naming traditions are often steeped in history, mythology, and deep familial bonds. Choosing a name from this origin is a wonderful way to connect your child with their ancestry."
+        }
+      ],
+      "relatedSearches": ["Classic names", "International names", "Family names"]
+    },
+    "letter": {
+      "intro": "Browse our collection of **baby names starting with {letter}**. The letter {letter} offers a diverse range of beautiful options.\n\nWhether you're looking for classic, trendy, or unique names, you'll find **{count}+ names beginning with {letter}** below.",
+      "sections": [],
+      "relatedSearches": ["Popular names", "Unique names", "Classic names"]
+    },
+    "category": {
+      "intro": "Discover **{title}** for your baby. Each name on this list has been carefully selected for its style and meaning.\n\nThese **{count}+ names** share common themes that make them perfect for parents seeking something special.",
+      "sections": [],
+      "relatedSearches": ["Similar styles", "Related categories"]
+    },
+    "default": {
+      "intro": "Discover beautiful **{title}** for your baby. Each name on this list has been carefully selected for its meaning, origin, and style.\n\nWhether you're looking for something classic, trendy, or unique, you'll find the perfect name among these **{count}+ options**.\n\nBrowse our collection below, complete with meanings, origins, nicknames, and popularity rankings.",
+      "sections": [],
+      "relatedSearches": []
+    }
+  },
+  "variables": {
+    "origin": "The cultural origin (e.g., Irish, Greek)",
+    "gender": "The gender (boy, girl, unisex)",
+    "meaning": "The meaning keyword (e.g., love, warrior)",
+    "letter": "The starting letter (A-Z)",
+    "category": "The category (classic, nature, etc.)",
+    "country": "The country (USA, UK, Canada)",
+    "count": "Number of names in the list",
+    "genderNoun": "boy/girl/child based on gender",
+    "keyword": "Primary keyword from list",
+    "title": "Full list title",
+    "syllableLabel": "One-Syllable, Two-Syllable, etc."
+  }
+}

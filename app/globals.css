@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────────────────────────────────────────────────
+   BASE TYPOGRAPHY  –  Mulish ExtraLight (200) for body,
+                       Mulish Black (900) for headings
+───────────────────────────────────────────────────── */
+@layer base {
+  body {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 200;
+    background-color: #FAFAFA;
+    color: #1F2937;
+    background-image: radial-gradient(#E5E7EB 1px, transparent 1px);
+    background-size: 40px 40px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Headings – Mulish Black */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  h1 { font-size: 42px;  line-height: 1.08; }
+  h2 { font-size: 28px;  line-height: 1.15; }
+  h3 { font-size: 22px;  line-height: 1.25; }
+  h4 { font-size: 18px;  line-height: 1.35; }
+  h5 { font-size: 16px;  line-height: 1.4;  }
+  h6 { font-size: 14px;  line-height: 1.4;  }
+
+  /* Bold / strong within body copy – use a readable weight */
+  strong, b {
+    font-weight: 700;
+  }
+
+  /* Paragraphs – comfortable reading size with ExtraLight */
+  p {
+    font-weight: 200;
+    line-height: 1.8;
+  }
+
+  /* Labels, nav items, buttons – needs a bit more weight to be legible */
+  button, input, select, textarea, label,
+  nav a, footer a {
+    font-weight: 300;
+  }
+
+  /* Table headers */
+  th {
+    font-weight: 700;
+  }
+}
+
+/* ─────────────────────────────────────────────────────
+   GLASSMORPHISM
+───────────────────────────────────────────────────── */
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+/* ─────────────────────────────────────────────────────
+   UTILITIES
+───────────────────────────────────────────────────── */
+/* Hide scrollbar for clean horizontal scrolls */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Focus ring */
+*:focus-visible {
+  outline: 2px solid #F43F5E;
+  outline-offset: 2px;
+}
+
+/* Selection highlight */
+::selection {
+  background-color: #FECDD3;
+  color: #881337;
+}
