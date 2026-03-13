@@ -12,7 +12,10 @@ interface AuthorCardProps {
 // Generate a randomuser.me image URL based on author ID
 function getAuthorImageUrl(authorId: string): string {
   // Use a consistent seed based on author ID for same image every time
-  return `https://api.randomuser.me/portraits/med/${authorId.charCodeAt(0) % 71}.jpg`;
+  // randomuser.me API has portraits from 0-71 for males and females
+  const seed = authorId.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+  const portraitNumber = seed % 72;
+  return `https://api.randomuser.me/portraits/med/${portraitNumber}.jpg`;
 }
 
 export default function AuthorCard({ author, variant = 'compact' }: AuthorCardProps) {
