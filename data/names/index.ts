@@ -5,32 +5,70 @@
  * and easier maintenance. Each letter has its own JSON file (a.json, b.json, etc.)
  */
 
-import { readFileSync } from 'fs';
-import { join } from 'path';
 import type { Name } from '@/types';
 import { DEFAULT_NAME_DATES } from '@/data/content-metadata';
 import generatedPopularityCurrentJson from '@/data/generated/name-popularity-current.json';
 import { isExcludedWrongGenderNameId } from '@/lib/nameDataSanitization';
 
+// Import all letter JSON files
+import namesA from './a.json';
+import namesB from './b.json';
+import namesC from './c.json';
+import namesD from './d.json';
+import namesE from './e.json';
+import namesF from './f.json';
+import namesG from './g.json';
+import namesH from './h.json';
+import namesI from './i.json';
+import namesJ from './j.json';
+import namesK from './k.json';
+import namesL from './l.json';
+import namesM from './m.json';
+import namesN from './n.json';
+import namesO from './o.json';
+import namesP from './p.json';
+import namesQ from './q.json';
+import namesR from './r.json';
+import namesS from './s.json';
+import namesT from './t.json';
+import namesU from './u.json';
+import namesV from './v.json';
+import namesW from './w.json';
+import namesX from './x.json';
+import namesY from './y.json';
+import namesZ from './z.json';
+
 type LetterNamesFile = unknown;
 
-const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-
-function loadLetterFile(letter: string): LetterNamesFile {
-  const filePath = join(process.cwd(), 'data', 'names', `${letter.toLowerCase()}.json`);
-  return JSON.parse(readFileSync(filePath, 'utf-8')) as LetterNamesFile;
-}
-
-const letterFiles: Record<string, LetterNamesFile> = Object.fromEntries(
-  LETTERS.map((letter) => [letter, null])
-);
-
-function getLetterFile(letter: string): LetterNamesFile {
-  if (letterFiles[letter] === null) {
-    letterFiles[letter] = loadLetterFile(letter);
-  }
-  return letterFiles[letter];
-}
+// Cast JSON imports to proper type (TypeScript JSON imports have loose types)
+const letterFiles: Record<string, LetterNamesFile> = {
+  A: namesA as unknown as LetterNamesFile,
+  B: namesB as unknown as LetterNamesFile,
+  C: namesC as unknown as LetterNamesFile,
+  D: namesD as unknown as LetterNamesFile,
+  E: namesE as unknown as LetterNamesFile,
+  F: namesF as unknown as LetterNamesFile,
+  G: namesG as unknown as LetterNamesFile,
+  H: namesH as unknown as LetterNamesFile,
+  I: namesI as unknown as LetterNamesFile,
+  J: namesJ as unknown as LetterNamesFile,
+  K: namesK as unknown as LetterNamesFile,
+  L: namesL as unknown as LetterNamesFile,
+  M: namesM as unknown as LetterNamesFile,
+  N: namesN as unknown as LetterNamesFile,
+  O: namesO as unknown as LetterNamesFile,
+  P: namesP as unknown as LetterNamesFile,
+  Q: namesQ as unknown as LetterNamesFile,
+  R: namesR as unknown as LetterNamesFile,
+  S: namesS as unknown as LetterNamesFile,
+  T: namesT as unknown as LetterNamesFile,
+  U: namesU as unknown as LetterNamesFile,
+  V: namesV as unknown as LetterNamesFile,
+  W: namesW as unknown as LetterNamesFile,
+  X: namesX as unknown as LetterNamesFile,
+  Y: namesY as unknown as LetterNamesFile,
+  Z: namesZ as unknown as LetterNamesFile,
+};
 
 const KNOWN_COLLECTION_KEYS = ['names', 'data', 'items'] as const;
 
@@ -243,7 +281,7 @@ export function getAllNames(): Name[] {
 
   const allNames: Name[] = [];
   for (const letter of Object.keys(letterFiles).sort()) {
-    const file = getLetterFile(letter);
+    const file = letterFiles[letter];
     allNames.push(...extractNamesFromFile(file));
   }
 

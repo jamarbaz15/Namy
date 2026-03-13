@@ -101,7 +101,13 @@ export function generateMetadata({ params }: { params: { id: string } }): Metada
 }
 
 export function generateStaticParams() {
-  return NAMES_DB.map((name) => ({ id: name.slug }));
+  // Pre-build only the top 2000 names by popularity to keep deployment size manageable.
+  // All other name pages are rendered on demand (dynamicParams defaults to true).
+  return NAMES_DB
+    .filter((name) => typeof name.popularity?.usa === 'number')
+    .sort((a, b) => a.popularity.usa - b.popularity.usa)
+    .slice(0, 2000)
+    .map((name) => ({ id: name.slug }));
 }
 
 export default function NameDetailsPage({ params }: { params: { id: string } }) {

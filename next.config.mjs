@@ -30,11 +30,6 @@ const nextConfig = {
   experimental: {
     // Optimize imports for heavy packages
     optimizePackageImports: ['recharts', 'lucide-react'],
-    // Include names JSON files in serverless function tracing
-    // (they're loaded via fs.readFileSync at runtime, not bundled statically)
-    outputFileTracingIncludes: {
-      '/**': ['./data/names/*.json'],
-    },
   },
 
   // Security & caching headers
