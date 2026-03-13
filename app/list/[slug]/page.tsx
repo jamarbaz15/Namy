@@ -102,6 +102,10 @@ export default function ListPage({ params }: { params: { slug: string } }) {
   }
 
   const allNames = filterNamesByList(list, NAMES_DB);
+  // Only show lists with 20+ names; smaller lists are not valid content
+  if (allNames.length < 20) {
+    notFound();
+  }
   const girlNames = allNames.filter((name) => name.gender === 'female');
   const boyNames = allNames.filter((name) => name.gender === 'male');
   const unisexNames = allNames.filter((name) => name.gender === 'unisex');
