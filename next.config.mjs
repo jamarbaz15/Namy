@@ -33,9 +33,9 @@ const nextConfig = {
   },
 
   // Exclude large data files from serverless function output
-  // These files are only needed during build time for bundling
+  // This file is only needed during build time for bundling
   outputFileTracingExcludes: {
-    '/**': ['data/generated/name-popularity-history.json', 'data/KEYWORDS_FINAL_CLEAN.txt'],
+    '/**': ['data/generated/name-popularity-history.json'],
   },
 
   // Security & caching headers
