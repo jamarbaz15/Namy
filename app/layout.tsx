@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { Mulish } from 'next/font/google';
 import './globals.css';
 import ClientLayout from '@/components/ClientLayout';
 import Analytics from '@/components/Analytics';
@@ -15,13 +14,8 @@ import {
 } from '@/lib/seo';
 import { createSiteGraph } from '@/lib/schema';
 
-const mulish = Mulish({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-mulish',
-  weight: ['200', '300', '400', '500', '600', '700', '800', '900'],
-  style: ['normal', 'italic'],
-});
+// Mulish font is now loaded via CSS only (in globals.css) to avoid network issues during build
+// CSS fallback: --font-mulish defaults to system-ui stack if Google Fonts fetch fails
 
 const fallbackShareImage = toSchemaImage(SITE_SHARE_ASSET);
 
@@ -88,11 +82,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang={SITE_LANGUAGE} className={`scroll-smooth ${mulish.variable}`}>
+    <html lang={SITE_LANGUAGE} className="scroll-smooth">
       <head>
         <StructuredData data={createSiteGraph()} />
       </head>
-      <body className={`min-h-screen flex flex-col font-sans text-gray-900 ${mulish.className}`}>
+      <body className="min-h-screen flex flex-col font-sans text-gray-900">
         <Analytics />
         <ClientLayout>{children}</ClientLayout>
       </body>
