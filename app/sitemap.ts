@@ -1,7 +1,8 @@
 import { MetadataRoute } from 'next';
-import { getNameById } from '@/data';
+import { getNameById, getListBySlug, NAMES_DB } from '@/data';
 import { STATIC_PAGE_DATE_METADATA } from '@/data/content-metadata';
 import { getNamePath } from '@/lib/nameRoutes';
+import { filterNamesByList } from '@/lib/utils';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://namylab.com';
 
@@ -159,12 +160,20 @@ export default async function sitemap({
       try {
         const module = await importFn();
         const lists = module.default?.lists || [];
-        const listEntries = lists.map((list: { slug: string; publishedAt?: string; updatedAt?: string }) => ({
-          url: `${BASE_URL}/list/${list.slug}`,
-          lastModified: list.updatedAt || list.publishedAt || STATIC_PAGE_DATE_METADATA['/lists'].updatedAt,
-          changeFrequency: 'weekly' as const,
-          priority: 0.7,
-        }));
+        const listEntries = lists
+          .filter((list: { slug: string; publishedAt?: string; updatedAt?: string }) => {
+            // Only include lists with 20+ names in sitemap
+            const listDef = getListBySlug(list.slug);
+            if (!listDef) return false;
+            const names = filterNamesByList(listDef, NAMES_DB);
+            return names.length >= 20;
+          })
+          .map((list: { slug: string; publishedAt?: string; updatedAt?: string }) => ({
+            url: `${BASE_URL}/list/${list.slug}`,
+            lastModified: list.updatedAt || list.publishedAt || STATIC_PAGE_DATE_METADATA['/lists'].updatedAt,
+            changeFrequency: 'weekly' as const,
+            priority: 0.7,
+          }));
         allLists.push(...listEntries);
       } catch (error) {
         console.error('Failed to load list file:', error);
