@@ -83,9 +83,16 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 }
 
 export function generateStaticParams() {
-  // Pre-build all ~1,341 lists — manageable size and provides excellent SEO coverage.
-  // All 46k+ name pages are rendered on demand (dynamicParams defaults to true).
-  return getAllListSlugs().map((slug) => ({ slug }));
+  // Pre-build lists with 20+ names only (~1,200 lists) — manageable size with excellent SEO coverage.
+  // Tiny lists with <20 names are rendered on demand (dynamicParams defaults to true).
+  return getAllListSlugs()
+    .filter((slug) => {
+      const list = getListBySlug(slug);
+      if (!list) return false;
+      const names = filterNamesByList(list, NAMES_DB);
+      return names.length >= 20;
+    })
+    .map((slug) => ({ slug }));
 }
 
 export default function ListPage({ params }: { params: { slug: string } }) {
