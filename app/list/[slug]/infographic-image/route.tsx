@@ -39,7 +39,10 @@ export async function GET(
   const titleSize  = title.length > 52 ? 19 : title.length > 38 ? 22 : title.length > 26 ? 25 : 28;
   const indices    = Array.from({ length: MAX_NAMES }, (_, i) => i);
 
-  return new ImageResponse(
+  // Create meaningful filename from list slug (e.g., "popular-boy-names-infographic.png")
+  const filename = `${params.slug}-infographic.png`;
+
+  const imageResponse = new ImageResponse(
     (
       <div
         style={{
@@ -274,4 +277,15 @@ export async function GET(
     ),
     { width: W, height: H },
   );
+
+  // Add Content-Disposition header with meaningful filename
+  const responseClone = imageResponse.clone();
+  const headers = new Headers(responseClone.headers);
+  headers.set('Content-Disposition', `inline; filename="${filename}"`);
+
+  return new Response(responseClone.body, {
+    status: responseClone.status,
+    statusText: responseClone.statusText,
+    headers,
+  });
 }

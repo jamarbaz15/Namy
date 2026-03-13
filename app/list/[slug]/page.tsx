@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { CONTENT_TEMPLATES, getListBySlug, NAMES_DB } from '@/data';
-import { getCoreLists } from '@/lib/lists';
+import { getAllListSlugs } from '@/lib/lists';
 import { getAuthorForList } from '@/data/authors';
 import StructuredData from '@/components/StructuredData';
 import ListPageClient from './ListPageClient';
@@ -83,9 +83,9 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 }
 
 export function generateStaticParams() {
-  // Pre-build only core lists (~500) to keep deployment size manageable.
-  // The 19k+ generated combination lists are rendered on demand (dynamicParams defaults to true).
-  return getCoreLists().map((list) => ({ slug: list.slug }));
+  // Pre-build all ~1,341 lists — manageable size and provides excellent SEO coverage.
+  // All 46k+ name pages are rendered on demand (dynamicParams defaults to true).
+  return getAllListSlugs().map((slug) => ({ slug }));
 }
 
 export default function ListPage({ params }: { params: { slug: string } }) {
