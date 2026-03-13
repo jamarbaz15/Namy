@@ -1,26 +1,16 @@
-# Exclude large data files that are already bundled into the code
-data/
+# Exclude git and version control
+.git/
+.gitignore
 
-# Exclude build artifacts
-.next/
-node_modules/
-
-# Exclude development files
+# Exclude development environment files
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-# Exclude git and version control
-.git/
-.gitignore
-
-# Exclude other development files
+# Exclude linter and formatter configs
 .eslintignore
 .prettierignore
-tsconfig.json
-postcss.config.mjs
-tailwind.config.ts
 
-# Exclude development scripts
-scripts/
+# Exclude documentation
+README.md

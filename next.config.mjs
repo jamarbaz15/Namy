@@ -32,6 +32,12 @@ const nextConfig = {
     optimizePackageImports: ['recharts', 'lucide-react'],
   },
 
+  // Exclude large data files from serverless function output
+  // These files are only needed during build time for bundling
+  outputFileTracingExcludes: {
+    '/**': ['data/generated/name-popularity-history.json', 'data/KEYWORDS_FINAL_CLEAN.txt'],
+  },
+
   // Security & caching headers
   async headers() {
     return [
