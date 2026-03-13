@@ -317,9 +317,9 @@ export default function NameDetailsClient({ nameData, popularityHistory, feature
           <div className="rounded-3xl border border-gray-100 bg-white p-8 shadow-card">
             <div className="flex flex-col gap-4 border-b border-gray-100 pb-6 md:flex-row md:items-end md:justify-between">
               <div>
-                <h3 className="flex items-center gap-2 text-xl font-bold text-gray-900">
-                  <TrendingUp className="text-primary-500" /> U.S. Popularity History
-                </h3>
+                <h2 className="flex items-center gap-2 text-xl font-bold text-gray-900">
+                  <TrendingUp className="text-primary-500" /> Popularity History of {nameData.name}
+                </h2>
                 <p className="mt-1 text-sm text-gray-500">
                   {chartData.length > 0
                     ? `Full SSA rank history from ${chartData[0].year} to ${chartData[chartData.length - 1].year}`
@@ -419,9 +419,9 @@ export default function NameDetailsClient({ nameData, popularityHistory, feature
               <div className="relative z-10">
                 <div className="mb-6 flex flex-col gap-3 border-b border-gray-100 pb-5 md:flex-row md:items-end md:justify-between">
                   <div>
-                    <h3 className="flex items-center gap-2 text-xl font-bold text-gray-900">
-                      <Tag className="text-secondary-500" /> Nicknames
-                    </h3>
+                    <h2 className="flex items-center gap-2 text-xl font-bold text-gray-900">
+                      <Tag className="text-secondary-500" /> {nameData.name} Nicknames
+                    </h2>
                     <p className="mt-1 max-w-2xl text-sm text-gray-500">
                       Familiar short forms, playful variations, and easy everyday options for {nameData.name}.
                     </p>
@@ -446,10 +446,10 @@ export default function NameDetailsClient({ nameData, popularityHistory, feature
           )}
           {similarNames.length > 0 && (
             <div className="rounded-3xl border border-gray-100 bg-white p-8 shadow-card">
-              <h3 className="mb-6 flex items-center gap-2 text-xl font-bold text-gray-900">
-                <Sparkles className="fill-yellow-400 text-yellow-400" /> Similar Names
-              </h3>
-              <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+              <h2 className="mb-6 flex items-center gap-2 text-xl font-bold text-gray-900">
+                <Sparkles className="fill-yellow-400 text-yellow-400" /> Similar Names to {nameData.name}
+              </h2>
+              <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
                 {similarNames.map((similar) => (
                   <NameCard
                     key={similar.id}

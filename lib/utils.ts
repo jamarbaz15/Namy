@@ -286,7 +286,7 @@ export function getSimilarNames(targetName: Name, allNames: Name[]): Name[] {
     (n.gender === targetName.gender || n.gender === 'unisex') &&
     (n.origins.some(o => targetName.origins.includes(o)) ||
      n.categories.some(c => targetName.categories.includes(c)))
-  ).slice(0, 3);
+  ).slice(0, 10);
 }
 
 // 9. COMMON MIDDLE NAMES

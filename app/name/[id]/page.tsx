@@ -86,8 +86,15 @@ export function generateMetadata({ params }: { params: { id: string } }): Metada
     return { title: 'Name Not Found' };
   }
 
-  const genderLabel = nameData.gender === 'male' ? 'Boy' : nameData.gender === 'female' ? 'Girl' : 'Unisex';
-  const title = `${nameData.name} - ${genderLabel} Name Meaning & Origin`;
+  // Create title with format: [Name] Meaning, Popularity, Nicknames & Origin | NamyLab
+  let title = `${nameData.name} Meaning, Popularity, Nicknames & Origin | NamyLab`;
+
+  // Google snippet limit is ~60 chars for desktop, ~40 for mobile. Keep under 60 to be safe.
+  // If title exceeds 60 chars, remove the "| NamyLab" part
+  if (title.length > 60) {
+    title = `${nameData.name} Meaning, Popularity, Nicknames & Origin`;
+  }
+
   const description = getNamePageDescription(nameData);
 
   return buildPageMetadata({

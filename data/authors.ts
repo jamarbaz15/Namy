@@ -43,7 +43,7 @@ She has been featured in Parents Magazine, The Bump, and What to Expect, and reg
     avatar: '/images/authors/grace-royal.png',
     social: {
       twitter: 'graceroyal_names',
-      linkedin: 'grace-royal-names',
+      linkedin: 'grace-royal-linguistics',
       instagram: 'graceroyalnames'
     },
     joinedDate: '2019-01-15',

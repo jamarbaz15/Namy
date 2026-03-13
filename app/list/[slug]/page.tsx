@@ -122,13 +122,16 @@ export default function ListPage({ params }: { params: { slug: string } }) {
   const articleSections = [...new Set(['Baby Name Lists', list.category, list.type].filter(Boolean).map((section) => toSectionLabel(section as string)))];
   const content = generateListContent(list, allNames.length, CONTENT_TEMPLATES);
   const introParagraphs = content.intro.split(/\n\n+/).filter(Boolean);
-  const relatedLists = content.relatedLists.map((relatedSlug) => {
-    const relatedList = getListBySlug(relatedSlug);
-    return {
-      slug: relatedSlug,
-      title: relatedList ? relatedList.title : relatedSlug.replace(/-/g, ' '),
-    };
-  });
+  const relatedLists = content.relatedLists
+    .map((relatedSlug) => {
+      const relatedList = getListBySlug(relatedSlug);
+      if (!relatedList) return null; // Filter out non-existent lists
+      return {
+        slug: relatedSlug,
+        title: relatedList.title,
+      };
+    })
+    .filter((item): item is { slug: string; title: string } => item !== null);
 
   return (
     <>
